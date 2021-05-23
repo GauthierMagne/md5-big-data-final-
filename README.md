@@ -27,3 +27,7 @@ Mise en place de plusieurs DAGS:
  * Gauthier MAGNE
  * Thibaud MAGNE
  * Florent ROUSSETY
+
+## Les csv utilisés pour les dags sont :
+  * bicycle ==> 202007-citibike-tripdata.csv
+  * taxi ==> green_tripdata_taxi_2020-07.csv // taxi_zone_lookup.csv
