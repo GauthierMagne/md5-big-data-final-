@@ -31,3 +31,4 @@ Mise en place de plusieurs DAGS:
 ## Les csv utilisés pour les dags sont :
   * bicycle ==> 202007-citibike-tripdata.csv
   * taxi ==> green_tripdata_taxi_2020-07.csv // taxi_zone_lookup.csv
+## Tout les csv nécessaires sont dans le S3 bucket dans le dossier csv
